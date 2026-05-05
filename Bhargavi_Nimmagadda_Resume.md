@@ -2,7 +2,7 @@
 
 **Risk & Fraud Analyst | KYC / AML Compliance | Transaction Monitoring**
 
-Newark, DE  |  \+1 (267) 407-1988  |  bhargavinchowdary@gmail.com  |  Open to Relocation
+Newark, DE  |  \+1 (267) 407-1988  |  bhargavinchowdary@gmail.com  |  [LinkedIn](https://www.linkedin.com/in/bhargavi-chowdary-96ab14403)  |  Open to Relocation
 
 **PROFESSIONAL SUMMARY**
 
