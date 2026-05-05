@@ -14,7 +14,7 @@ Results-driven Risk & Fraud Analyst with 3+ years of experience across U.S. fint
 
 **KYC / AML Compliance:** KYC · CDD · EDD · Customer Risk Profiling · Sanctions & Watchlist Screening (OFAC) · PEP Screening · Adverse Media · BSA / AML · FinCEN · Suspicious Activity Identification · Regulatory Reporting · Audit Documentation
 
-**Tools & Platforms:** Fiserv Fraud Detection · Actimize (exposure) · Case Management Systems · Jira · ServiceNow · Splunk · CRM Tools · Microsoft Excel (Pivot, VLOOKUP, XLOOKUP, Macros) · Tableau · Power BI
+**Tools & Platforms:** Enterprise Fraud Detection · Actimize (exposure) · Case Management Systems · Jira · ServiceNow · Splunk · CRM Tools · Microsoft Excel (Pivot, VLOOKUP, XLOOKUP, Macros) · Tableau · Power BI
 
 **Data & Analytics:** SQL (Joins, Aggregations, CTEs) · Python (Pandas, NumPy basics) · Data Cleaning & Validation · Trend & Root-Cause Analysis · KPI Reporting · Dashboard Design · Statistical Analysis
 
