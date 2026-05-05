@@ -1,24 +1,10 @@
 <div align="center">
 
-<!-- Static Gradient Header SVG -->
-<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1a0a2e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#grad1)" rx="16" />
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, system-ui, sans-serif" font-size="56" font-weight="bold" fill="#e94560">
-    Bhargavi N.
-  </text>
-  <text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, system-ui, sans-serif" font-size="20" fill="#c8aa82">
-    Risk &amp; Fraud Analyst | Financial Crime Prevention Specialist
-  </text>
-</svg>
+<!-- Pure Markdown Header — 100% reliable on GitHub -->
 
-<br>
+# 👋 Hi, I'm **Bhargavi N.**
+
+### 🛡️ Risk & Fraud Analyst | 💼 Financial Crime Prevention Specialist
 
 [![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e94560&labelColor=1a1a2e)](https://bhargavichowdary630.github.io/Bhargavi)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/bhargavi-nimmagadda)
@@ -176,18 +162,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavichowdary630&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=e94560&icon_color=c8aa82&text_color=dadada&border_radius=15)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavichowdary630&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=e94560&text_color=dadada&border_radius=15)
-
-</div>
 
 ---
 
