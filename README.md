@@ -1,16 +1,28 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e94560,100:1a1a2e&height=200&section=header&text=Bhargavi%20N.&fontSize=60&fontColor=c8aa82&animation=fadeIn&fontAlignY=35&desc=Risk%20%26%20Fraud%20Analyst%20%7C%20Financial%20Crime%20Prevention%20Specialist&descSize=18&descAlignY=55&descAlign=50)
+<!-- Static Gradient Header SVG -->
+<svg width="100%" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a0a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#grad1)" rx="16" />
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, system-ui, sans-serif" font-size="56" font-weight="bold" fill="#e94560">
+    Bhargavi N.
+  </text>
+  <text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, system-ui, sans-serif" font-size="20" fill="#c8aa82">
+    Risk &amp; Fraud Analyst | Financial Crime Prevention Specialist
+  </text>
+</svg>
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e94560&labelColor=1a1a2e)](https://bhargavichowdary630.github.io/Bhargavi)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/bhargavi-nimmagadda)
 [![Email](https://img.shields.io/badge/📧_Email-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:bhargavinchowdary@gmail.com)
-
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=🔍+Investigating+Financial+Crime;💳+Transaction+Monitoring+Expert;🛡️+Fraud+Detection+Specialist;📊+Data-Driven+Risk+Analyst;⚡+Real-time+Alert+Triage+Pro)
 
 </div>
 
