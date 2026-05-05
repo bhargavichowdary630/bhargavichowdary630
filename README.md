@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- Pure Markdown Header — 100% reliable on GitHub -->
+<!-- Animated Header SVG served from raw GitHub -->
+<img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/header.svg" width="100%" alt="Bhargavi N. Header"/>
 
-# 👋 Hi, I'm **Bhargavi N.**
-
-### 🛡️ Risk & Fraud Analyst | 💼 Financial Crime Prevention Specialist
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e94560&labelColor=1a1a2e)](https://bhargavichowdary630.github.io/Bhargavi)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/bhargavi-nimmagadda)
 [![Email](https://img.shields.io/badge/📧_Email-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:bhargavinchowdary@gmail.com)
 
 </div>
+
+<!-- Animated Wave Divider -->
+<img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/wave.svg" width="100%" height="40"/>
 
 ---
 
@@ -183,15 +185,8 @@
 
 </div>
 
----
-
-<div align="center">
-
-### "Let's build fraud-free financial systems together."
-
-**© 2026 Bhargavi Nimmagadda | All Rights Reserved**
-
-</div>
+<!-- Animated Footer SVG -->
+<img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/footer.svg" width="100%" height="80"/>
 
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
