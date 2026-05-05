@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Animated Header SVG served from raw GitHub -->
-<img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/header.svg" width="100%" alt="Bhargavi N. Header"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e94560,100:1a1a2e&height=200&section=header&text=Bhargavi%20N.&fontSize=60&fontColor=c8aa82&animation=fadeIn&fontAlignY=35&desc=Risk%20%26%20Fraud%20Analyst%20%7C%20Financial%20Crime%20Prevention%20Specialist&descSize=18&descAlignY=55&descAlign=50)
 
-<br><br>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e94560&labelColor=1a1a2e)](https://bhargavichowdary630.github.io/Bhargavi)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/bhargavi-nimmagadda)
+[![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e94560&labelColor=1a1a2e)](https://bhargavi-n.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/bhargavi-chowdary-96ab14403)
 [![Email](https://img.shields.io/badge/📧_Email-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:bhargavinchowdary@gmail.com)
 
-</div>
+<br>
 
-<!-- Animated Wave Divider -->
-<img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/wave.svg" width="100%" height="40"/>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=🔍+Investigating+Financial+Crime;💳+Transaction+Monitoring+Expert;🛡️+Fraud+Detection+Specialist;📊+Data-Driven+Risk+Analyst;⚡+Real-time+Alert+Triage+Pro)
+
+</div>
 
 ---
 
@@ -167,12 +167,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavichowdary630&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=e94560&icon_color=c8aa82&text_color=dadada&border_radius=15)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavichowdary630&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=e94560&text_color=dadada&border_radius=15)
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:bhargavinchowdary@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/bhargavi-nimmagadda)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/bhargavi-chowdary-96ab14403)
 [![Phone](https://img.shields.io/badge/📱_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a)](tel:+12674071988)
 
 <br>
@@ -185,8 +197,15 @@
 
 </div>
 
-<!-- Animated Footer SVG -->
-<img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/footer.svg" width="100%" height="80"/>
+---
+
+<div align="center">
+
+### "Let's build fraud-free financial systems together."
+
+**© 2026 Bhargavi Nimmagadda | All Rights Reserved**
+
+</div>
 
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
