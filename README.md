@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <!-- Animated Header SVG served from raw GitHub -->
 <img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/header.svg" width="100%" alt="Bhargavi N. Header"/>
 
