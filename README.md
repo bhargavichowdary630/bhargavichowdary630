@@ -1,197 +1,148 @@
-<div align="center">
- 
-<!-- Animated Header SVG served from raw GitHub -->
-<img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/header.svg" width="100%" alt="Bhargavi N. Header"/>
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/🔗_Live_Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e94560&labelColor=1a1a2e)](https://bhargavi-n.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/bhargavi-chowdary-96ab14403)
-[![Email](https://img.shields.io/badge/📧_Email-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:bhargavinchowdary@gmail.com)
-
-</div>
-
-<!-- Animated Wave Divider -->
-<img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/wave.svg" width="100%" height="40"/>
-
----
-
-## 🚀 About Me
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🎯 SPECIALIZATION                                          │
-│  ├── Fraud Detection & Risk Management                      │
-│  ├── Transaction Monitoring & Alert Triage                  │
-│  ├── KYC / AML Compliance & Regulatory Frameworks           │
-│  └── Data Analytics & Risk Intelligence                     │
-│                                                             │
-│  💼 EXPERIENCE                                              │
-│  ├── Fiserv — Fraud Detection Analyst (USA)                 │
-│  └── Genpact — KYC Analyst (HDFC Bank Process)              │
-│                                                             │
-│  🎓 EDUCATION                                               │
-│  ├── MS in Information Systems — Wilmington University      │
-│  └── BTech in ECE — JNTU Hyderabad                          │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠️ Tech Stack
+<a href="https://github.com/bhargavichowdary630">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=120&section=header&text=Bhargavi%20Nimmagadda&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+</a>
 
 <div align="center">
 
-### Core Technologies
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev)
+### 🛠️ Data Engineer · Financial Services · ETL/ELT · Data Quality · Cloud Pipelines
 
-### Animation & UI
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com)
-[![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)](https://www.radix-ui.com)
-
-### Data & Tools
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://tableau.com)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+*4+ years designing, validating, and orchestrating high-volume batch pipelines at JPMorgan Chase & Goldman Sachs*
 
 </div>
 
 ---
 
-## ✨ Portfolio Highlights
+## 👩‍💻 About Me
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 Cinematic Hero</h3>
-      <p>GSAP scroll-driven 3D card animation with mouse-tracking sheen effect, iPhone mockup, and floating glass badges.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌊 Digital Rain</h3>
-      <p>Canvas-based mathematical symbol waterfall with simulated water surface ripple physics.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💎 Liquid Glass UI</h3>
-      <p>SVG displacement-map glass-lens refraction buttons generated per-instance via Canvas API.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔥 Hover Reveals</h3>
-      <p>Grayscale-to-color transitions with amber accent shifts and cross-fade description effects.</p>
-    </td>
-  </tr>
-</table>
+Data Engineer with 4+ years of experience in financial services — including JPMorgan Chase and Goldman Sachs — designing and validating high-volume batch ETL/ELT pipelines, performing source-to-target reconciliation, and enforcing rigorous data quality controls. Hands-on with SQL, Python, PySpark, Airflow, Snowflake, and AWS in production environments. Experienced building reliable data models, automating validation frameworks, and collaborating with engineering and operations teams in Agile settings.
 
 ---
 
-## 📁 Project Structure
+## 🔧 Tech Stack
 
-```
-📦 Bhargavi Portfolio
-├── 🎨 public/
-│   ├── 🖼️ images/          # Capability & research visuals
-│   └── 🎬 videos/          # Cinematic background assets
-│
-├── ⚛️ src/
-│   ├── 🧩 components/      # Reusable UI components
-│   │   ├── 💎 LiquidGlassButton.tsx
-│   │   └── 🎭 ui/          # 60+ shadcn/ui primitives
-│   ├── 🎣 hooks/           # Custom React hooks
-│   ├── 📚 lib/             # Utility functions
-│   ├── 🎬 sections/        # Page sections
-│   │   ├── 🧭 Navigation.tsx
-│   │   ├── 🏔️ CinematicHero.tsx
-│   │   ├── 📋 Curriculum.tsx
-│   │   ├── 🎥 CinematicVision.tsx
-│   │   ├── 🌊 AmberCascades.tsx
-│   │   ├── 🗂️ AlumniArchives.tsx
-│   │   └── 🔍 CapabilityDetail.tsx
-│   ├── ⚙️ config.ts        # ALL content configuration
-│   ├── 🎨 index.css        # Global styles & animations
-│   └── 🚀 App.tsx          # Route definitions
-│
-├── 📄 index.html
-├── 🔧 vite.config.ts
-├── 🎨 tailwind.config.js
-└── 📋 package.json
-```
+**Languages**
 
----
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-## 🎯 Featured Projects
+**Orchestration & Streaming**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔍 Real-Time Fraud Alert Triage</h3>
-      <p>
-        <img src="https://img.shields.io/badge/2024-Fraud%20Operations-e94560?style=flat-square&labelColor=0a0a0a" />
-      </p>
-      <p>Enterprise-grade alert triage system processing 10,000+ weekly transactions with automated risk scoring and case escalation workflows.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 Chargeback Dispute Analytics</h3>
-      <p>
-        <img src="https://img.shields.io/badge/2024-Risk%20Analysis-c8aa82?style=flat-square&labelColor=0a0a0a" />
-      </p>
-      <p>Evidence packaging and representment strategy system aligned to Visa/Mastercard timelines with measurable win-rate improvements.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ PEP & Sanctions Screening</h3>
-      <p>
-        <img src="https://img.shields.io/badge/2023-Compliance%20Tech-06B6D4?style=flat-square&labelColor=0a0a0a" />
-      </p>
-      <p>Automated watchlist screening with OFAC, adverse media, and PEP identification supporting BSA/AML regulatory frameworks.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Synthetic Identity Detection</h3>
-      <p>
-        <img src="https://img.shields.io/badge/2024-Data%20Science-88CE02?style=flat-square&labelColor=0a0a0a" />
-      </p>
-      <p>Machine learning model identifying fabricated identities through behavioral pattern analysis and document forensics.</p>
-    </td>
-  </tr>
-</table>
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+
+**Data Warehouses & Databases**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+**Data Quality & Modeling**
+
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6B6B?style=flat-square&logoColor=white)
+![Dimensional Modeling](https://img.shields.io/badge/Dimensional%20Modeling-667eea?style=flat-square&logoColor=white)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-764ba2?style=flat-square&logoColor=white)
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-20C997?style=flat-square&logoColor=white)
+
+**Collaboration & APIs**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## 💼 Experience
+
+### Data Engineer — JPMorgan Chase & Co., USA
+`Nov 2024 – Present`
+
+- Validate 10,000+ records weekly across batch ETL pipelines, detecting anomalies, schema inconsistencies, and processing exceptions before downstream distribution to reporting and customer communication systems.
+- Develop complex SQL queries to verify accuracy, completeness, consistency, and integrity of large datasets, ensuring data meets business and compliance standards prior to production release.
+- Perform source-to-target reconciliation between upstream data sources and system-generated outputs, preventing data discrepancies from reaching downstream consumers.
+- Trace data end to end through intake, transformation, output generation, exception handling, and delivery to confirm pipeline correctness and auditability.
+- Investigate failed transactions and batch failures, conduct root-cause analysis, and coordinate with engineering teams to reprocess and verify corrected data within SLA windows.
+- Execute regression validation on pipeline and workflow changes to ensure existing data outputs remain accurate after modifications.
+- Translate business requirements into validation rules, data dependencies, and edge case test scenarios; document defects and verify fixes in an Agile delivery environment.
+
+---
+
+### Data Engineer — Goldman Sachs, India
+`Jan 2022 – Dec 2023`
+
+- Processed and validated data for 100+ retail and corporate clients daily, enforcing business rules for completeness, accuracy, and regulatory compliance across batch pipelines.
+- Verified batch runs and confirmed accurate data movement into downstream reporting and communication systems, reducing reconciliation gaps identified in weekly audits.
+- Reconciled source records against processed outputs and partnered with operations and technology teams to resolve discrepancies within defined SLA timelines.
+- Performed root-cause analysis on recurring data issues and improved SOPs and pipeline documentation, reducing average issue turnaround time by approximately 15%.
+
+---
+
+## 🏆 Key Achievements
+
+- 🚀 Built an Airflow-orchestrated ETL pipeline that ingests public NYC taxi trip data into S3, transforms it with PySpark, and loads a star-schema dimensional model into Snowflake for analytical reporting.
+- ✅ Implemented automated data quality checks covering nulls, duplicates, and row-count reconciliation; configured CI/CD with GitHub Actions and containerized the pipeline using Docker.
+- 🔍 Developed a Python-based reconciliation tool that compares source and target tables, flags record-level mismatches, and generates structured reconciliation reports, mirroring financial-services validation workflows.
+
+---
+
+## 📌 Featured Projects
+
+| | |
+|---|---|
+| [![bhargavichowdary630](https://github-readme-stats.vercel.app/api/pin/?username=bhargavichowdary630&repo=bhargavichowdary630&theme=github_dark)](https://github.com/bhargavichowdary630/bhargavichowdary630) | [![Bhargavi](https://github-readme-stats.vercel.app/api/pin/?username=bhargavichowdary630&repo=Bhargavi&theme=github_dark)](https://github.com/bhargavichowdary630/Bhargavi) |
+
+### 🗂️ Repositories
+
+**bhargavichowdary630**
+
+![Public](https://img.shields.io/badge/Public-555555?style=flat-square)
+[![Repo](https://img.shields.io/badge/Repo-View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/bhargavichowdary630/bhargavichowdary630)
+
+---
+
+**Bhargavi** — Portfolio
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Public](https://img.shields.io/badge/Public-555555?style=flat-square)
+[![Repo](https://img.shields.io/badge/Repo-View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/bhargavichowdary630/Bhargavi)
+
+---
+
+## 📈 Coding Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhargavichowdary630&theme=github-compact)](https://github.com/bhargavichowdary630)
+
+---
+
+## 🎓 Education
+
+**Master of Science, Information Systems**
+Wilmington University, USA · *Expected Dec 2025*
+
+---
+
+## 📬 Contact
+
+[![Email](https://img.shields.io/badge/Email-Bhargavinchowdary%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Bhargavinchowdary@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Newark%2C%20DE-667eea?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Newark,DE)
+[![GitHub](https://img.shields.io/badge/GitHub-bhargavichowdary630-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhargavichowdary630)
+
+---
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/📧_Email-e94560?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:bhargavinchowdary@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/bhargavi-chowdary-96ab14403)
-[![Phone](https://img.shields.io/badge/📱_Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0a0a)](tel:+12674071988)
-
-<br>
-
-![Location](https://img.shields.io/badge/📍_Newark,_DE_(Open_to_Relocation)-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=e94560&labelColor=1a1a2e)
-
-<br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=bhargavichowdary630&color=e94560&style=for-the-badge&labelColor=0a0a0a)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=40&section=footer"/>
 </div>
-
-<!-- Animated Footer SVG -->
-<img src="https://raw.githubusercontent.com/bhargavichowdary630/bhargavichowdary630/main/assets/footer.svg" width="100%" height="80"/>
-
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  Crafted with ❤️ by Bhargavi Nimmagadda                         ║
-  ║  Risk & Fraud Analyst | Financial Crime Prevention Specialist   ║
-  ║  React + TypeScript + GSAP + Tailwind CSS                       ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
